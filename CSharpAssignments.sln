@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment-1-PrintEvenOdd", "Assignment-1-PrintEvenOdd\Assignment-1-PrintEvenOdd.csproj", "{F72A230A-FA9F-482D-9DE6-77D53BFF5F69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment-2-Calculator", "Assignment-2-Calculator\Assignment-2-Calculator.csproj", "{8449DBC9-B814-489D-94BF-D148FC204A0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F72A230A-FA9F-482D-9DE6-77D53BFF5F69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F72A230A-FA9F-482D-9DE6-77D53BFF5F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F72A230A-FA9F-482D-9DE6-77D53BFF5F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F72A230A-FA9F-482D-9DE6-77D53BFF5F69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8449DBC9-B814-489D-94BF-D148FC204A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8449DBC9-B814-489D-94BF-D148FC204A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8449DBC9-B814-489D-94BF-D148FC204A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8449DBC9-B814-489D-94BF-D148FC204A0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15EE2973-F28C-45AB-A6D2-79F2D6470321}
+	EndGlobalSection
+EndGlobal
