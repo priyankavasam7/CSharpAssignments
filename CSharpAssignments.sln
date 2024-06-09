@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment-2-Calculator", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment-3-TemperatureConverter", "Assignment-3-TemperatureConverter\Assignment-3-TemperatureConverter.csproj", "{E83DC3DB-2D2B-4591-AB85-D0BFD82088C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment-4-Palindrome", "Assignment-4-Palindrome\Assignment-4-Palindrome.csproj", "{12B54F9B-0595-4ADB-979F-159D363679F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E83DC3DB-2D2B-4591-AB85-D0BFD82088C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E83DC3DB-2D2B-4591-AB85-D0BFD82088C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E83DC3DB-2D2B-4591-AB85-D0BFD82088C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B54F9B-0595-4ADB-979F-159D363679F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B54F9B-0595-4ADB-979F-159D363679F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B54F9B-0595-4ADB-979F-159D363679F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B54F9B-0595-4ADB-979F-159D363679F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
